@@ -11,4 +11,4 @@ Rails app developed with Ruby on Rails, Javascript, CSS, Bootstrap and PostgreSQ
 ✔️[Spreadsheet](https://docs.google.com/spreadsheets/d/10IGP9XvvcfLz8HKd78lknEAF-v5Djg4LheecPNBQD_U/edit#gid=0)
 
 
-Created whit ♥️ by [Dinorah Skidelsky](https://github.com/DinorahSkidelsky)
+Created whit by [Pablo Escales](https://github.com/DinorahSkidelsky)
