@@ -1,6 +1,6 @@
 [HappyPaw 🐾 ](http://www.happypaw.cloud/)
 
-Rails app developed with Ruby on Rails, Javascript, CSS, Bootstrap and PostgreSQL.
+Rails app developed with Ruby on Rails, Javascript, AJAX, SCSS, Bootstrap and PostgreSQL.
 
 ✔️[Database Schema](https://kitt.lewagon.com/db/61777)
 
