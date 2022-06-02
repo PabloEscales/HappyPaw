@@ -1,12 +1,15 @@
-Web app developed with Ruby on Rails, Javascript ES6, HTML5, SCSS, Bootstrap and PostgreSQL. It seeks to connect people who need to leave their pet in someone's care and, in turn, those people who want to become sitters.
+[<h1 class="border bottom">HappyPaw 🐾 </h1>](http://www.happypaw.cloud/)
 
-✔️ Database Schema 🔑
+Web app developed with Ruby on Rails, Javascript ES6, HTML5, SCSS, Bootstrap and PostgreSQL. 
+It seeks to connect people who need to leave their pet in someone's care and, in turn, those people who want to become sitters.
 
-✔️ Project Dashboard - Trello 🖋
+✔️ [Database Schema](https://docs.google.com/spreadsheets/d/1xl5ndTtbFU6LIFGEHSY6ZwGhfc4uXkMJIyqoZkK1OrY/edit?usp=sharing) 🔑
 
-✔️ Prototype - Figma 🎨
+✔️ [Project Dashboard - Trello](https://trello.com/b/QTJWDdsP/happypaw) 🖋
 
-✔️ User Stories & Routes ⚙️
+✔️ [Prototype - Figma](https://www.figma.com/file/08VIrDdqapkoPj2z9jafEQ/HappyPaw?node-id=4%3A2) 🎨
+
+✔️ [User Stories & Routes](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ86wfMG6LS424tmh7NlQcuIeq6D0zd3QE3Cci_pPb-3uqm6VpSlb87OJyPC_rm1kDW0rWxpugOvgR4/pubhtml) ⚙️
 
 
 Created whit by [Pablo Escales](https://github.com/DinorahSkidelsky)
